@@ -1,6 +1,8 @@
 # LinkFinder
 Simple Chrome Extension to navigate all the fuckin Meet Links given by the college
 
+Links are hardcoded because I can't be assed to make anything actually useful
+
 ## Installation Guide
 once downloaded, extract the extension files into a folder
 
