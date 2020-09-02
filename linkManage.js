@@ -33,7 +33,7 @@ var links = {
     sdp: "https://meet.google.com/sik-eehw-kkc",
   },
 };
-window.localStorage.setItem("linkData", JSON.stringify(links)); //Run index.html one to save the json data.
+window.localStorage.setItem("linkData", JSON.stringify(links)); //Run index.html once to save the json data.
 //After you are done, comment the line above and uncomment the line below. Remove the var links on line 1
 //var links = JSON.parse(localStorage.getItem("linkData"));
 var user_num = 3;
