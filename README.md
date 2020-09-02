@@ -1,4 +1,6 @@
-# LinkFinder
+
+![Banner](https://github.com/OverPoweredDev/op_link_finder/blob/master/images/banner.png)
+
 Simple Chrome Extension to navigate all the fuckin Meet Links given by the college
 
 Links are hardcoded because I can't be assed to make anything actually useful
