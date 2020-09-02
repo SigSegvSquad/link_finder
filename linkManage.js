@@ -33,8 +33,10 @@ var links = {
     sdp: "https://meet.google.com/sik-eehw-kkc",
   },
 };
-
-var user_num = 1;
+window.localStorage.setItem("linkData", JSON.stringify(links)); //Run index.html one to save the json data.
+//After you are done, comment the line above and uncomment the line below.
+//var links = JSON.parse(localStorage.getItem("linkData"));
+var user_num = 3;
 
 var dcan_lab = document.getElementsByClassName("dcan_lab");
 var ds_lab = document.getElementsByClassName("ds_lab");
