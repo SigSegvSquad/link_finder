@@ -1,0 +1,35 @@
+{
+  "user": {
+    "default": "",
+    "1": "?pli=1&authuser=1",
+    "2": "?pli=2&authuser=2",
+    "3": "?pli=3&authuser=3"
+  },
+  "Monday": {
+    "DCAN Lab":"https://meet.google.com/zph-jcux-xvu",
+    "DS Lab": "https://meet.google.com/ybn-jcem-snd",
+    "CA&OS Lab": "https://meet.google.com/fzz-khqe-ref"
+  },
+  "Wednesday": {
+    "DS Theory":"https://meet.google.com/jvf-vidj-hou",
+    "CA&OS Theory": "https://meet.google.com/fzz-khqe-ref",
+    "DCAN Theory": "https://meet.google.com/gey-kowe-tau"
+  },
+  "Thursday": {
+    "DS Theory":"https://meet.google.com/jvf-vidj-hou",
+    "CA&OS Theory": "https://meet.google.com/fzz-khqe-ref",
+    "DCAN Theory": "https://meet.google.com/avm-kfwf-ood",
+    "EDI": ""
+  },
+  "Friday": {
+    "DS Theory":"https://meet.google.com/jvf-vidj-hou",
+    "CA&OS Theory": "https://meet.google.com/fzz-khqe-ref",
+    "DCAN Theory": "https://meet.google.com/oer-dktd-osu"
+  },
+  "Saturday": {
+    "DCAN Tutorial":"https://meet.google.com/dxf-muna-ayx",
+    "DS Tutorial": "https://meet.google.com/rvb-mrmi-jxr",
+    "CAOS Tutorial": "https://meet.google.com/fzz-khqe-ref",
+    "SDP": "https://meet.google.com/sik-eehw-kkc"
+  }
+}
