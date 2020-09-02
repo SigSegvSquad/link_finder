@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dffcbe9d-dee1-4985-99ca-4d474b34e2c9" name="Default Changelist" comment="" />
+    <list default="true" id="dffcbe9d-dee1-4985-99ca-4d474b34e2c9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/todo-list-extension-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/todo-list-extension-master.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1giS4tcR1S3eX20ZYMPu5j74s6G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="false" />
@@ -23,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/icon" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -50,20 +58,38 @@
       <workItem from="1598598135135" duration="1753000" />
       <workItem from="1598601672021" duration="3465000" />
       <workItem from="1598609782225" duration="23000" />
+      <workItem from="1598610016414" duration="478000" />
+      <workItem from="1598667825539" duration="192000" />
+      <workItem from="1598672071617" duration="603000" />
+      <workItem from="1598677660017" duration="1227000" />
+      <workItem from="1599026282163" duration="93000" />
+      <workItem from="1599026520189" duration="306000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1598610055502</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598610055502</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="743" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1598598757270">
+    <state x="743" y="311" width="447" height="491" key="FileChooserDialogImpl" timestamp="1598610038045">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="743" y="311" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1598598757270" />
-    <state x="757" y="453" width="405" height="207" key="Github.ShareDialog" timestamp="1598609791451">
+    <state x="743" y="311" width="447" height="491" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1598610038045" />
+    <state x="757" y="453" width="405" height="207" key="Github.ShareDialog" timestamp="1598610096473">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="757" y="453" width="405" height="207" key="Github.ShareDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1598609791451" />
+    <state x="757" y="453" width="405" height="207" key="Github.ShareDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1598610096473" />
   </component>
 </project>
