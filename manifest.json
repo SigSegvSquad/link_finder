@@ -3,7 +3,7 @@
   "version": "1.0",
   "description": "Timetable - OP",
   "browser_action": {
-    "default_title": "Simple Chrome Extension",
+    "default_title": "OPs LinkFinder",
     "default_popup": "index.html",
     "default_icon": {
       "32": "icon/cal32.png",
