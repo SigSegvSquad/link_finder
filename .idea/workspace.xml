@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dffcbe9d-dee1-4985-99ca-4d474b34e2c9" name="Default Changelist" comment="init">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/example.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -81,7 +81,7 @@
       <workItem from="1598677660017" duration="1227000" />
       <workItem from="1599026282163" duration="93000" />
       <workItem from="1599026520189" duration="345000" />
-      <workItem from="1599026881002" duration="523000" />
+      <workItem from="1599026881002" duration="1212000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1598610055502</created>
@@ -97,7 +97,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599026831553</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="init">
+      <created>1599027412160</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599027412160</updated>
+    </task>
+    <task id="LOCAL-00004" summary="init">
+      <created>1599027532422</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599027532422</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,9 +142,9 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="757" y="453" width="405" height="207" key="Github.ShareDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1598610096473" />
-    <state x="1030" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1599026835737">
+    <state x="1030" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1599027535415">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="1030" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1599026835737" />
+    <state x="1030" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1599027535415" />
   </component>
 </project>

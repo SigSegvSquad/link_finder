@@ -14,3 +14,9 @@ once downloaded, extract the extension files into a folder
 ![Load Extension](https://developer.chrome.com/static/images/get_started/load_extension.png)
 
 Ta-da! The extension has been successfully installed. You can find it under the extensions button in the top right
+
+## Preview
+
+This is how the extension will look after you've installed it
+
+![Preview](https://github.com/OverPoweredDev/op_link_finder/blob/master/images/example.gif)
