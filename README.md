@@ -1,5 +1,5 @@
 
-![Banner](https://github.com/OverPoweredDev/op_link_finder/blob/master/images/banner.png)
+![Banner](https://github.com/OverPoweredDev/op_link_finder/blob/master/images/github_banner.png)
 
 Simple Chrome Extension to navigate all the fuckin Meet Links given by the college
 
