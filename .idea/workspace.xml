@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dffcbe9d-dee1-4985-99ca-4d474b34e2c9" name="Default Changelist" comment="added banner (who knows why)">
-      <change afterPath="$PROJECT_DIR$/addsubject.html" afterDir="false" />
+    <list default="true" id="dffcbe9d-dee1-4985-99ca-4d474b34e2c9" name="Default Changelist" comment="stuff">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +87,8 @@
       <workItem from="1599026520189" duration="345000" />
       <workItem from="1599026881002" duration="1232000" />
       <workItem from="1599028938023" duration="92000" />
-      <workItem from="1599029583391" duration="1019000" />
+      <workItem from="1599029583391" duration="1122000" />
+      <workItem from="1599031824582" duration="733000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1598610055502</created>
@@ -145,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599029670909</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="stuff">
+      <created>1599030693758</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1599030693758</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,7 +175,8 @@
     <MESSAGE value="init" />
     <MESSAGE value="updated banner again" />
     <MESSAGE value="added banner (who knows why)" />
-    <option name="LAST_COMMIT_MESSAGE" value="added banner (who knows why)" />
+    <MESSAGE value="stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="stuff" />
   </component>
   <component name="WindowStateProjectService">
     <state x="743" y="311" width="447" height="491" key="FileChooserDialogImpl" timestamp="1598610038045">
@@ -178,9 +187,9 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="757" y="453" width="405" height="207" key="Github.ShareDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1598610096473" />
-    <state x="1030" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1599029674985">
+    <state x="1030" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1599030696774">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="1030" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1599029674985" />
+    <state x="1030" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1599030696774" />
   </component>
 </project>
