@@ -1,5 +1,5 @@
 
-![Banner](https://github.com/OverPoweredDev/op_link_finder/blob/master/images/banner.png)
+![Banner](https://github.com/OverPoweredDev/link_finder/blob/master/images/github_banner.png)
 
 Simple Chrome Extension to navigate all the fuckin Meet Links given by the college
 
@@ -21,4 +21,4 @@ Ta-da! The extension has been successfully installed. You can find it under the 
 
 This is how the extension will look after you've installed it
 
-![Preview](https://github.com/OverPoweredDev/op_link_finder/blob/master/images/example.gif)
+![Preview](https://github.com/OverPoweredDev/link_finder/blob/master/images/example.gif)
