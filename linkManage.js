@@ -34,6 +34,8 @@ var links = {
   },
 };
 
+var user_num = 1;
+
 var dcan_lab = document.getElementsByClassName("dcan_lab");
 var ds_lab = document.getElementsByClassName("ds_lab");
 var caos_lab = document.getElementsByClassName("caos_lab");
@@ -46,24 +48,60 @@ var caos_tutorial = document.getElementsByClassName("caos_tutorial");
 var sdp = document.getElementsByClassName("sdp");
 var edai = document.getElementsByClassName("edai");
 
-dcan_lab[0].setAttribute("href", links.monday.dcan_lab);
-ds_lab[0].setAttribute("href", links.monday.ds_lab);
-caos_lab[0].setAttribute("href", links.monday.caos_lab);
+dcan_lab[0].setAttribute("href", links.monday.dcan_lab + links.user[user_num]);
+ds_lab[0].setAttribute("href", links.monday.ds_lab + links.user[user_num]);
+caos_lab[0].setAttribute("href", links.monday.caos_lab + links.user[user_num]);
 
-dcan_theory[0].setAttribute("href", links.wednesday.dcan_theory);
-ds_theory[0].setAttribute("href", links.wednesday.ds_theory);
-caos_theory[0].setAttribute("href", links.wednesday.caos_theory);
+dcan_theory[0].setAttribute(
+  "href",
+  links.wednesday.dcan_theory + links.user[user_num]
+);
+ds_theory[0].setAttribute(
+  "href",
+  links.wednesday.ds_theory + links.user[user_num]
+);
+caos_theory[0].setAttribute(
+  "href",
+  links.wednesday.caos_theory + links.user[user_num]
+);
 
-dcan_theory[1].setAttribute("href", links.thursday.dcan_theory);
-ds_theory[1].setAttribute("href", links.thursday.ds_theory);
-caos_theory[1].setAttribute("href", links.thursday.caos_theory);
-edai[0].setAttribute("href", links.thursday.edai);
+dcan_theory[1].setAttribute(
+  "href",
+  links.thursday.dcan_theory + links.user[user_num]
+);
+ds_theory[1].setAttribute(
+  "href",
+  links.thursday.ds_theory + links.user[user_num]
+);
+caos_theory[1].setAttribute(
+  "href",
+  links.thursday.caos_theory + links.user[user_num]
+);
+edai[0].setAttribute("href", links.thursday.edai + links.user[user_num]);
 
-dcan_theory[2].setAttribute("href", links.friday.dcan_theory);
-ds_theory[2].setAttribute("href", links.friday.ds_theory);
-caos_theory[2].setAttribute("href", links.friday.caos_theory);
+dcan_theory[2].setAttribute(
+  "href",
+  links.friday.dcan_theory + links.user[user_num]
+);
+ds_theory[2].setAttribute(
+  "href",
+  links.friday.ds_theory + links.user[user_num]
+);
+caos_theory[2].setAttribute(
+  "href",
+  links.friday.caos_theory + links.user[user_num]
+);
 
-dcan_tutorial[0].setAttribute("href", links.saturday.dcan_tutorial);
-ds_tutorial[0].setAttribute("href", links.saturday.ds_tutorial);
-caos_tutorial[0].setAttribute("href", links.saturday.caos_tutorial);
-sdp[0].setAttribute("href", links.saturday.sdp);
+dcan_tutorial[0].setAttribute(
+  "href",
+  links.saturday.dcan_tutorial + links.user[user_num]
+);
+ds_tutorial[0].setAttribute(
+  "href",
+  links.saturday.ds_tutorial + links.user[user_num]
+);
+caos_tutorial[0].setAttribute(
+  "href",
+  links.saturday.caos_tutorial + links.user[user_num]
+);
+sdp[0].setAttribute("href", links.saturday.sdp + links.user[user_num]);
