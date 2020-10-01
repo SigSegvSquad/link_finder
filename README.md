@@ -23,3 +23,10 @@ You can find it under the extensions button in the top right.
 This is how the extension will look after you've installed it.
 
 ![Preview](https://github.com/OverPoweredDev/link_finder/blob/master/images/example.gif)
+ 
+ ##responsive
+ <meta name="viewport" content="width=device-width">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ @-ms-viewport{
+  width: device-width;
+}
