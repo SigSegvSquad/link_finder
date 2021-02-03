@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dffcbe9d-dee1-4985-99ca-4d474b34e2c9" name="Default Changelist" comment="stuff" />
+    <list default="true" id="dffcbe9d-dee1-4985-99ca-4d474b34e2c9" name="Default Changelist" comment="stuff">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linkManage.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +39,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="ProjectId" id="1giS4tcR1S3eX20ZYMPu5j74s6G" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -86,6 +91,7 @@
       <workItem from="1599029583391" duration="1122000" />
       <workItem from="1599031824582" duration="827000" />
       <workItem from="1599032740452" duration="550000" />
+      <workItem from="1612325365580" duration="359000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1598610055502</created>
@@ -189,26 +195,8 @@
     <MESSAGE value="stuff" />
     <option name="LAST_COMMIT_MESSAGE" value="stuff" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="743" y="311" width="447" height="491" key="FileChooserDialogImpl" timestamp="1598610038045">
-      <screen x="0" y="27" width="1920" height="1053" />
-    </state>
-    <state x="743" y="311" width="447" height="491" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1598610038045" />
-    <state x="757" y="453" width="405" height="207" key="Github.ShareDialog" timestamp="1598610096473">
-      <screen x="0" y="27" width="1920" height="1053" />
-    </state>
-    <state x="757" y="453" width="405" height="207" key="Github.ShareDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1598610096473" />
-    <state x="1030" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1599033274275">
-      <screen x="0" y="27" width="1920" height="1053" />
-    </state>
-    <state x="1030" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1599033274275" />
-    <state x="1201" y="468" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599033266931">
-      <screen x="0" y="27" width="1920" height="1053" />
-    </state>
-    <state x="1201" y="468" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.1053@0.27.1920.1053" timestamp="1599033266931" />
-    <state x="153" y="27" width="629" height="1009" key="dock-window-1" timestamp="1599033267376">
-      <screen x="0" y="27" width="1920" height="1053" />
-    </state>
-    <state x="153" y="27" width="629" height="1009" key="dock-window-1/0.27.1920.1053@0.27.1920.1053" timestamp="1599033267376" />
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
