@@ -19,10 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dffcbe9d-dee1-4985-99ca-4d474b34e2c9" name="Default Changelist" comment="stuff">
+    <list default="true" id="dffcbe9d-dee1-4985-99ca-4d474b34e2c9" name="Default Changelist" comment="b2 fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkManage.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ToDoList-master" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -91,7 +90,18 @@
       <workItem from="1599029583391" duration="1122000" />
       <workItem from="1599031824582" duration="827000" />
       <workItem from="1599032740452" duration="550000" />
-      <workItem from="1612325365580" duration="359000" />
+      <workItem from="1612325365580" duration="1256000" />
+      <workItem from="1612339364441" duration="1438000" />
+      <workItem from="1612412876703" duration="649000" />
+      <workItem from="1612510412555" duration="612000" />
+      <workItem from="1612762345312" duration="608000" />
+      <workItem from="1612844331620" duration="599000" />
+      <workItem from="1612977184426" duration="40000" />
+      <workItem from="1615534319728" duration="18000" />
+      <workItem from="1615629568998" duration="681000" />
+      <workItem from="1615882027611" duration="19000" />
+      <workItem from="1615882066051" duration="38000" />
+      <workItem from="1616911919057" duration="53000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1598610055502</created>
@@ -170,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599033271240</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="b2 fix">
+      <created>1612325737105</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1612325737105</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,7 +210,8 @@
     <MESSAGE value="updated banner again" />
     <MESSAGE value="added banner (who knows why)" />
     <MESSAGE value="stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="stuff" />
+    <MESSAGE value="b2 fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="b2 fix" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
