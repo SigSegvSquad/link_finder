@@ -6,6 +6,10 @@ html, body {
     height: 1rem !important;
 }
 
+.list-group-item {
+    display: none;
+}
+
 .list-group {
     min-width: 300px;
     margin-bottom: 0;
