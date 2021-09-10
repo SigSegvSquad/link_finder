@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -19,8 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dffcbe9d-dee1-4985-99ca-4d474b34e2c9" name="Default Changelist" comment="b2 fix">
+    <list default="true" id="dffcbe9d-dee1-4985-99ca-4d474b34e2c9" name="Default Changelist" comment="done">
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +38,7 @@
       <list>
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -51,8 +57,13 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ToDoList-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -102,6 +113,19 @@
       <workItem from="1615882027611" duration="19000" />
       <workItem from="1615882066051" duration="38000" />
       <workItem from="1616911919057" duration="53000" />
+      <workItem from="1616912568920" duration="740000" />
+      <workItem from="1617604163370" duration="72000" />
+      <workItem from="1621593390882" duration="230000" />
+      <workItem from="1621663640367" duration="118000" />
+      <workItem from="1621941728427" duration="8000" />
+      <workItem from="1630463458599" duration="4075000" />
+      <workItem from="1630553953340" duration="753000" />
+      <workItem from="1630562816957" duration="4264000" />
+      <workItem from="1630643164545" duration="869000" />
+      <workItem from="1630900925360" duration="717000" />
+      <workItem from="1630910590014" duration="800000" />
+      <workItem from="1631067862120" duration="90000" />
+      <workItem from="1631258171857" duration="551000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1598610055502</created>
@@ -187,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612325737105</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="done">
+      <created>1616912705655</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1616912705655</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,7 +242,8 @@
     <MESSAGE value="added banner (who knows why)" />
     <MESSAGE value="stuff" />
     <MESSAGE value="b2 fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="b2 fix" />
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

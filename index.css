@@ -2,6 +2,15 @@
     display: none;
 }
 
-.bg-dark{
+html, body {
+    height: 1rem !important;
+}
+
+.list-group {
+    min-width: 300px;
+    margin-bottom: 0;
+}
+
+.bg-dark {
     background-color: #000099;
 }
