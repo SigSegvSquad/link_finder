@@ -4,6 +4,7 @@
 
 html, body {
     height: 1rem !important;
+    user-select: none;
 }
 
 .list-group-item {
